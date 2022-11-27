@@ -3,7 +3,7 @@ import './contect.css'
 
 function Contect() {
   return (
-    <div>Contect</div>
+    <section id='contect'> contect</section>
   )
 }
 
