@@ -22,10 +22,10 @@ function Nav() {
       <a href="#experience" onClick={()=>setActiveNav('#experience')} className={activeNav === '#experience' ? 'active':''}>
       <BiBook />
       </a>
-      <a href="#services" onClick={()=>setActiveNav('#services')} className={activeNav === '#services' ? 'active':''}>
+      <a href="#portfolio" onClick={()=>setActiveNav('#portfolio')} className={activeNav === '#portfolio' ? 'active':''}>
       <FaLaptopCode />
       </a>
-      <a href="#contect" onClick={()=>setActiveNav('#contect')} className={activeNav === '#contect' ? 'active':''}>
+      <a href="#contact" onClick={()=>setActiveNav('#contact')} className={activeNav === '#contact' ? 'active':''}>
       <GiTalk />
       </a>
     </nav>
