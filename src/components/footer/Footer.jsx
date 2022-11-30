@@ -4,7 +4,7 @@ import {SiDiscord} from 'react-icons/si'
 import {BsTwitter} from 'react-icons/bs'
 function Footer() {
   return (
-    <footer>
+    <footer id="footer">
       <a href="#logo" className='footer__logo'>Raj</a>
 
       <ul className='links'>

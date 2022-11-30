@@ -60,11 +60,22 @@ header{
     /*} */
 }
 
-@media screen and (max-width:600px) {
-    /* header{
+/* @media screen and (max-width:600px) {
+    header{
         height: 100vh;
-    } */
+    }
     .header_social, 
     .scroll__down{
         display: none;    }
+} */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 600px)  {
+    header {
+            height: 100vh;
+        }
+    
+        .header_social,
+        .scroll__down {
+            display: none;
+        }
 }

@@ -35,7 +35,7 @@ function About() {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus, sunt vel! Dolorum doloremque, nostrum sunt ratione ut officiis. Neque asperiores nisi libero quod hic qui!
+            I am a focused professional with demonstrated web development and programming skills. I want to use my abilities to become a professional software developer. I have a great willingness to learn new technology and keep up with industry developments.
           </p>
           <a href="#contect" className='btn btn-primary'>Let's talk</a>
         </div>
