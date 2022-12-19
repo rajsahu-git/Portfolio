@@ -2,6 +2,9 @@ import React from 'react'
 import './portfolio.css'
 import Netflix_clone from '../../assets/netflix_clone.png'
 import CRM from '../../assets/CRM.png'
+import password from '../../assets/password.png'
+import pokemon from '../../assets/pokemon.png'
+import crypto from '../../assets/crypto.png'
 
 function Portfolio() {
   const data = [
@@ -19,6 +22,28 @@ function Portfolio() {
       live_demo: "http://crm2.pythonanywhere.com/",
       image:CRM,
     },
+    {
+      id:3,
+      title: "Pokemon App",
+      github: "https://github.com/rajsahu24/ReactProject-pokemon_app-",
+      live_demo: "https://react-project-pokemon-app.vercel.app/",
+      image:pokemon,
+    },
+    {
+      id:4,
+      title: "Password Generator",
+      github: "https://github.com/rajsahu24/ReactProject-password_generator-",
+      live_demo: "https://react-project-password-generator.vercel.app/",
+      image:password,
+    },
+    {
+      id:5,
+      title: "Crypto App",
+      github: "https://github.com/rajsahu24/ReactProject-crypto-app-",
+      live_demo: "https://react-project-crypto-app.vercel.app/",
+      image:crypto,
+    },
+    
   ]
   return (
     <section id="portfolio">
@@ -31,7 +56,7 @@ function Portfolio() {
             return (
             <article key={item.id} className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={item.image} alt="Netfli clone" />
+            <img src={item.image} alt={item.title} />
           </div>
             <h3>
               {item.title}
