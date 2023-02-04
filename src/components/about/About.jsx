@@ -35,7 +35,7 @@ function About() {
             </article>
           </div>
           <p>
-            I am a focused professional with demonstrated web development and programming skills. I want to use my abilities to become a professional software developer. I have a great willingness to learn new technology and keep up with industry developments.
+            Hello, I am Raj Sahu, a web developer with experience in Python/django, Javascript and React. Currently I'm learning Next.js and excited to explore the possibilities of this new technology. My passion for coding has driven me to learn more about web development every day; from creating efficient back-end systems using frameworks like Django to developing interactive user interfaces with React - my skillset is constantly evolving as I strive towards becoming an expert full stack developer.
           </p>
           <a href="#contect" className='btn btn-primary'>Let's talk</a>
         </div>
