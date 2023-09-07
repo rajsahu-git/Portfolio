@@ -16,7 +16,7 @@ function Footer() {
       </ul>
       <div className="footer__socials">
         <a href="https://discord.com/rajsahu#2730"><SiDiscord></SiDiscord></a>
-        <a href="https://twitter.com/rajsahu824"><BsTwitter/></a>
+        <a href="https://twitter.com/rajsahu_twt"><BsTwitter/></a>
         {/* <a href="https://discord.com/rajsahu#2730">Discord</a> */}
       </div>
       {/* <div>
