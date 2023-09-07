@@ -19,7 +19,7 @@ function Portfolio() {
       id:2,
       title: "Customer relationship management",
       github: "https://github.com/rajsahu24/CRM",
-      live_demo: "http://crm2.pythonanywhere.com/",
+      live_demo: "http://crm12.pythonanywhere.com/",
       image:CRM,
     },
     {
