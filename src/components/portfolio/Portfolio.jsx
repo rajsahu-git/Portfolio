@@ -10,34 +10,42 @@ function Portfolio() {
   const data = [
     {
       id:1,
-      title: "Netflix clone",
-      github: "https://github.com/rajsahu24/Netflix_clone",
-      live_demo: "http://netflixclone1.pythonanywhere.com/",
+      title: "Netflix-GPT",
+      github: "https://github.com/rajsahu-git/neura_flicks",
+      live_demo: "https://netflix-black-one.vercel.app/",
       image:Netflix_clone,
     },
     {
       id:2,
+      title: "YouTube",
+      github: "https://github.com/rajsahu-git/YouTube",
+      live_demo: "https://you-tube-clone-two-drab.vercel.app/",
+      image:Youtube_clone,
+    },
+    
+    {
+      id:3,
       title: "Customer relationship management",
       github: "https://github.com/rajsahu24/CRM",
       live_demo: "http://crm12.pythonanywhere.com/",
       image:CRM,
     },
     {
-      id:3,
+      id:4,
       title: "Pokemon App",
       github: "https://github.com/rajsahu24/ReactProject-pokemon_app-",
       live_demo: "https://react-project-pokemon-app.vercel.app/",
       image:pokemon,
     },
     {
-      id:4,
+      id:5,
       title: "Password Generator",
       github: "https://github.com/rajsahu24/ReactProject-password_generator-",
       live_demo: "https://react-project-password-generator.vercel.app/",
       image:password,
     },
     {
-      id:5,
+      id:6,
       title: "Crypto App",
       github: "https://github.com/rajsahu24/ReactProject-crypto-app-",
       live_demo: "https://react-project-crypto-app.vercel.app/",
