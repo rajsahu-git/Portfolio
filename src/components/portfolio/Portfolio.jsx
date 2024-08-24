@@ -1,6 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import Netflix_clone from '../../assets/netflix_clone.png'
+import Youtube_clone from '../../assets/Youtube_clone.png'
 import CRM from '../../assets/CRM.png'
 import password from '../../assets/password.png'
 import pokemon from '../../assets/pokemon.png'
