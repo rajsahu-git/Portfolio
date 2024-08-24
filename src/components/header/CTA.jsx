@@ -1,5 +1,5 @@
 import React from 'react'
-import Raj from '../../assets/Raj.pdf'
+import Raj from '../../assets/RajKumar-.pdf'
 const CTA = () => {
   return (
       <div className='cta'>
